@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/erivansilva/Projects/ClassLibraryProjects/ShowCase/ShowCase.csproj": {}
+  },
+  "projects": {
+    "/Users/erivansilva/Projects/ClassLibraryProjects/MissingNumbers/MissingNumbers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/erivansilva/Projects/ClassLibraryProjects/MissingNumbers/MissingNumbers.csproj",
+        "projectName": "MissingNumbers",
+        "projectPath": "/Users/erivansilva/Projects/ClassLibraryProjects/MissingNumbers/MissingNumbers.csproj",
+        "packagesPath": "/Users/erivansilva/.nuget/packages/",
+        "outputPath": "/Users/erivansilva/Projects/ClassLibraryProjects/MissingNumbers/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/erivansilva/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/erivansilva/Projects/ClassLibraryProjects/ShowCase/ShowCase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/erivansilva/Projects/ClassLibraryProjects/ShowCase/ShowCase.csproj",
+        "projectName": "ShowCase",
+        "projectPath": "/Users/erivansilva/Projects/ClassLibraryProjects/ShowCase/ShowCase.csproj",
+        "packagesPath": "/Users/erivansilva/.nuget/packages/",
+        "outputPath": "/Users/erivansilva/Projects/ClassLibraryProjects/ShowCase/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/erivansilva/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/erivansilva/Projects/ClassLibraryProjects/MissingNumbers/MissingNumbers.csproj": {
+                "projectPath": "/Users/erivansilva/Projects/ClassLibraryProjects/MissingNumbers/MissingNumbers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

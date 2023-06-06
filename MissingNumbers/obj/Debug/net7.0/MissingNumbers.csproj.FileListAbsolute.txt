@@ -1,0 +1,12 @@
+/Users/erivansilva/Projects/ClassLibraryProjects/MissingNumbers/bin/Debug/net7.0/MissingNumbers.deps.json
+/Users/erivansilva/Projects/ClassLibraryProjects/MissingNumbers/bin/Debug/net7.0/MissingNumbers.dll
+/Users/erivansilva/Projects/ClassLibraryProjects/MissingNumbers/bin/Debug/net7.0/MissingNumbers.pdb
+/Users/erivansilva/Projects/ClassLibraryProjects/MissingNumbers/obj/Debug/net7.0/MissingNumbers.csproj.AssemblyReference.cache
+/Users/erivansilva/Projects/ClassLibraryProjects/MissingNumbers/obj/Debug/net7.0/MissingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erivansilva/Projects/ClassLibraryProjects/MissingNumbers/obj/Debug/net7.0/MissingNumbers.AssemblyInfoInputs.cache
+/Users/erivansilva/Projects/ClassLibraryProjects/MissingNumbers/obj/Debug/net7.0/MissingNumbers.AssemblyInfo.cs
+/Users/erivansilva/Projects/ClassLibraryProjects/MissingNumbers/obj/Debug/net7.0/MissingNumbers.csproj.CoreCompileInputs.cache
+/Users/erivansilva/Projects/ClassLibraryProjects/MissingNumbers/obj/Debug/net7.0/MissingNumbers.dll
+/Users/erivansilva/Projects/ClassLibraryProjects/MissingNumbers/obj/Debug/net7.0/refint/MissingNumbers.dll
+/Users/erivansilva/Projects/ClassLibraryProjects/MissingNumbers/obj/Debug/net7.0/MissingNumbers.pdb
+/Users/erivansilva/Projects/ClassLibraryProjects/MissingNumbers/obj/Debug/net7.0/ref/MissingNumbers.dll
